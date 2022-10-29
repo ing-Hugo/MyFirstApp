@@ -6,7 +6,7 @@ For reference we use this guide to create this App
 Android Room with a View - Java
 https://developer.android.com/codelabs/android-room-with-a-view#0
 
-this is the final result of the application:
+
 
 The purpose of Architecture Components is to provide guidance on app architecture, with libraries for common tasks like lifecycle management and data persistence. Architecture components help you structure your app in a way that is robust, testable, and maintainable with less boilerplate code. The Architecture Component libraries are part of Android Jetpack.
 
@@ -36,3 +36,6 @@ The app is no-frills, but sufficiently complex that you can use it as a template
 
 
 ![image](https://user-images.githubusercontent.com/68777214/198829038-dfa0fb9a-607e-4f1f-81c9-382feeda1585.png)
+![image](https://user-images.githubusercontent.com/68777214/198829271-404abd3e-e5f4-4ab3-b173-7873f21af327.png)
+
+

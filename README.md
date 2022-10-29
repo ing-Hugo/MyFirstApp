@@ -1,4 +1,4 @@
 # MyFirstAPP
-#***********************************************************
-#This is my first application developing with Android Studio
-#************************************************************
+
+This is my first application developing with Android Studio
+

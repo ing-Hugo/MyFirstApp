@@ -1,4 +1,4 @@
-# MyFirstAPP
+# MyFirstApp
 
 This is my first application developing with Android Studio
 
